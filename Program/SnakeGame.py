@@ -23,7 +23,7 @@ player_name = ""
 #Screen
 screen = turtle.Screen()
 screen.setup(WIDTH, HEIGHT)
-screen.title("Sanake Game")
+screen.title("Sanake Game By S4NJ4Y")
 screen.bgcolor("white")
 screen.setup(500,500)
 screen.tracer(0)
